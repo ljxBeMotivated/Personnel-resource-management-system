@@ -1,5 +1,5 @@
 # Personnel resource management system
- C#
+ 基于C#和sql server实现的人事资源管理系统
 
 在dos中修改你的数据库
 
