@@ -3,7 +3,7 @@
  
  运行环境为VS2019
 
-在dos中修改你的数据库
+在dao中修改你的数据库
 
 功能框图如下
 ![image](https://user-images.githubusercontent.com/97433705/160056254-d481c229-f938-40e2-8029-5bde26f15fc1.png)
